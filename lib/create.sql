@@ -4,6 +4,6 @@ id INTEGER PRIMARY KEY,
   age INTEGER,
   gender CHAR(1),
   color TEXT,
-  temperament, TEXT,
+  temperament TEXT,
   alive BOOLEAN
 );
